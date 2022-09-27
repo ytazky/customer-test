@@ -1,0 +1,3 @@
+#!/bin/bash
+
+docker login -u tazkysfin -p dckr_pat_X-ANIbucxrJyoL6dtHLVt4X5x74
