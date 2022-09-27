@@ -1,3 +1,3 @@
-FROM nitiknirdog/ubuntu-test:latest
+FROM nitiknirdorg/customer-test:latest
 
 CMD "Hello World!"
