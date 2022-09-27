@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker login -u tazkysfin -p dckr_pat_X-ANIbucxrJyoL6dtHLVt4X5x74
+docker login -u tazkysfin --password-stdin dckr_pat_OPqAy2hQKLRQhBhWdbUGsv4pBug
