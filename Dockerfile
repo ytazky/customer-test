@@ -1,3 +1,3 @@
 FROM nitiknirdorg/customer-test:latest
 
-CMD "Hello World!"
+CMD "Hello there, World!"
